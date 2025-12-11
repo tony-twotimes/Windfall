@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 # Windfall
 
 ## Overview
@@ -28,4 +27,4 @@ Ensure the following tools are installed and in your \$PATH:
 
 ## Disclaimer
 This tool is for authorized security testing and educational purposes only.
-EOF
+
